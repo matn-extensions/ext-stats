@@ -1,0 +1,10 @@
+{
+  "id": "matn.ext.stats",
+  "name": "Document Statistics",
+  "version": "1.0.0",
+  "author": "Matn Team",
+  "description": "Live document word count, character count, and estimated reading time",
+  "category": "tools",
+  "type": "plugin",
+  "repository": "https://github.com/matn-extensions/ext-stats"
+}
